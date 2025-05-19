@@ -1,0 +1,10 @@
+.page-container {
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
